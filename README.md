@@ -8,4 +8,4 @@ The project is broken down into a series of tasks from loading in data to defini
 
 ## Generated faces of my DCGAN
 
-![alt text](asset/generated.PNG)
+![alt text](assets/generated.PNG)
