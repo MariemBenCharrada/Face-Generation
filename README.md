@@ -6,6 +6,6 @@ In this project, I defined and trained a DCGAN on a dataset of faces. The goal i
 
 The project is broken down into a series of tasks from loading in data to defining and training adversarial networks. At the end of the notebook, I visualized the results of the trained Generator.
 
-## Generated faces of myDCGAN
+## Generated faces of my DCGAN
 
-![alt text](assest/generated.PNG)
+![alt text](asset/generated.PNG)
